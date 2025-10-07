@@ -38,3 +38,4 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+\n## Hotfix instructions\n\n- Apply quick fix to README.
